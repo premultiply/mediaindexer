@@ -2,7 +2,7 @@
 
 Automatically creates beautiful filmstrip and waveform images, json/xml metadata and EBU R128 loudness measurements on media files in a watched folder for browsing applications.
 
-Required executables:
+### Required executables:
 - ffmpeg.exe from https://ffmpeg.zeranoe.com/builds/
 - ffprobe.exe from https://ffmpeg.zeranoe.com/builds/
 - mxf2raw.exe from https://sourceforge.net/projects/bmxlib/files/
@@ -11,7 +11,7 @@ Required executables:
 ### How to use:
 - Install [AutoIt](https://www.autoitscript.com/site/autoit/downloads/) 
 - Copy required executables into script folder
-- Compile Script e.g. with [Aut2exe](https://www.autoitscript.com/autoit3/docs/intro/compiler.htm) 
+- Compile Script with [Aut2exe](https://www.autoitscript.com/autoit3/docs/intro/compiler.htm) 
 - Define Properties in config.ini
 - Run with start.bat
 
